@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07999297-2797-4d3e-ac7d-46bf403b4d21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuling_springIoc/target/classes/com/lslnx/springIoc/DemoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuling_springIoc/target/classes/com/lslnx/springIoc/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuling_springIoc/target/classes/spring.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/tuling_springIoc/target/" />
+    <ignored path="$PROJECT_DIR$/tuling_springTx/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1089813260">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="AbstractRefreshableApplicationContext" value="1" />
+          <entry key="PlatformTransactionManager" value="1" />
+          <entry key="class" value="17" />
+          <entry key="java" value="4" />
+          <entry key="tx" value="1" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="17" />
+          <entry key="JAVA" value="4" />
+          <entry key="UML" value="3" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="502" />
+          <entry key="txt" value="11" />
+          <entry key="xml" value="132" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="502" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="XML" value="132" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tuling_springTx/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-tx/4.3.8.RELEASE/spring-tx-4.3.8.RELEASE.jar!/org/springframework/transaction/PlatformTransactionManager.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-jdbc/4.3.8.RELEASE/spring-jdbc-4.3.8.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-tx/4.3.8.RELEASE/spring-tx-4.3.8.RELEASE.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tuling_springIoc/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="7" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tuling_springIoc/pom.xml" />
+        <option value="$PROJECT_DIR$/tuling_springIoc/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/Person.java" />
+        <option value="$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/DemoTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tuling_springTx/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\apache-maven-3.5.3\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling_springTx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling_springTx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling_springTx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535630478590" />
+    <property name="last_opened_file_path" value="D:/lslnx/tuling/tuling-spring" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lslnx.springIoc.DemoTest" />
+      <module name="tuling_springIoc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lslnx.springIoc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lslnx0307\AppData\Roaming\Subversion</configuration>
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07999297-2797-4d3e-ac7d-46bf403b4d21" name="Default Changelist" comment="" />
+      <created>1535465861880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535465861880</updated>
+      <workItem from="1535465865427" duration="4715000" />
+      <workItem from="1535553679808" duration="2015000" />
+      <workItem from="1535628525171" duration="642000" />
+      <workItem from="1535629571430" duration="1179000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1535630168550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535630168550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8551000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32930845" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296582" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3296582" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3257329" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32930845" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/DemoTest.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>216</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>254</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>594</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/FileSystemXmlApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/DemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractXmlApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8364">
+          <caret line="593" column="17" selection-start-line="593" selection-start-column="17" selection-end-line="593" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.context.support.AbstractRefreshableApplicationContext">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.context.support.AbstractRefreshableApplicationContext</OriginalElement>
+          <nodes>
+            <node x="0.0" y="80.0">org.springframework.beans.factory.HierarchicalBeanFactory</node>
+            <node x="1163.5285087719299" y="0.0">org.springframework.core.io.ResourceLoader</node>
+            <node x="496.74999999999994" y="170.0">org.springframework.context.ApplicationContext</node>
+            <node x="1169.0" y="80.0">java.lang.AutoCloseable</node>
+            <node x="1307.5" y="170.0">org.springframework.context.Lifecycle</node>
+            <node x="1286.9780701754387" y="330.0">org.springframework.context.support.AbstractApplicationContext</node>
+            <node x="1322.0" y="80.0">org.springframework.core.io.DefaultResourceLoader</node>
+            <node x="1424.5" y="250.0">org.springframework.beans.factory.DisposableBean</node>
+            <node x="390.0" y="80.0">org.springframework.core.env.EnvironmentCapable</node>
+            <node x="1182.5" y="170.0">java.io.Closeable</node>
+            <node x="168.14473684210532" y="0.0">org.springframework.beans.factory.BeanFactory</node>
+            <node x="1109.4780701754387" y="250.0">org.springframework.context.ConfigurableApplicationContext</node>
+            <node x="578.0" y="80.0">org.springframework.context.ApplicationEventPublisher</node>
+            <node x="795.0" y="80.0">org.springframework.core.io.support.ResourcePatternResolver</node>
+            <node x="1252.4780701754387" y="410.0">org.springframework.context.support.AbstractRefreshableApplicationContext</node>
+            <node x="1008.0" y="80.0">org.springframework.context.MessageSource</node>
+            <node x="207.0" y="80.0">org.springframework.beans.factory.ListableBeanFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.core.env.EnvironmentCapable">
+              <point x="-13.083333333333371" y="-15.0" />
+              <point x="562.1666666666665" y="130.0" />
+              <point x="474.0" y="130.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.core.io.support.ResourcePatternResolver" target="org.springframework.core.io.ResourceLoader">
+              <point x="0.0" y="-15.0" />
+              <point x="891.5" y="55.0" />
+              <point x="1199.2785087719299" y="55.0" />
+              <point x="-35.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.beans.factory.HierarchicalBeanFactory" target="org.springframework.beans.factory.BeanFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="93.5" y="55.0" />
+              <point x="197.89473684210532" y="55.0" />
+              <point x="-29.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractApplicationContext" target="org.springframework.core.io.DefaultResourceLoader">
+              <point x="0.0" y="-15.0" />
+              <point x="1389.4780701754387" y="305.0" />
+              <point x="1414.0" y="305.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.beans.factory.ListableBeanFactory" target="org.springframework.beans.factory.BeanFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="288.5" y="55.0" />
+              <point x="257.3947368421053" y="55.0" />
+              <point x="29.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.core.io.DefaultResourceLoader" target="org.springframework.core.io.ResourceLoader">
+              <point x="0.0" y="-15.0" />
+              <point x="1414.0" y="55.0" />
+              <point x="1270.7785087719299" y="55.0" />
+              <point x="35.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractRefreshableApplicationContext" target="org.springframework.context.support.AbstractApplicationContext">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractApplicationContext" target="org.springframework.beans.factory.DisposableBean">
+              <point x="68.33333333333331" y="-15.0" />
+              <point x="1457.811403508772" y="305.0" />
+              <point x="1495.5" y="305.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ConfigurableApplicationContext" target="org.springframework.context.ApplicationContext">
+              <point x="-77.33333333333331" y="-15.0" />
+              <point x="1148.1447368421054" y="225.0" />
+              <point x="575.25" y="225.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.beans.factory.HierarchicalBeanFactory">
+              <point x="-65.41666666666674" y="-15.0" />
+              <point x="509.8333333333332" y="150.0" />
+              <point x="93.5" y="150.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ConfigurableApplicationContext" target="java.io.Closeable">
+              <point x="0.0" y="-15.0" />
+              <point x="1225.4780701754387" y="225.0" />
+              <point x="1235.0" y="225.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.context.ApplicationEventPublisher">
+              <point x="13.083333333333371" y="-15.0" />
+              <point x="588.3333333333333" y="130.0" />
+              <point x="676.5" y="130.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.beans.factory.ListableBeanFactory">
+              <point x="-39.25" y="-15.0" />
+              <point x="536.0" y="140.0" />
+              <point x="288.5" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.context.MessageSource">
+              <point x="65.41666666666663" y="-15.0" />
+              <point x="640.6666666666665" y="150.0" />
+              <point x="1078.5" y="150.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.core.io.support.ResourcePatternResolver">
+              <point x="39.25" y="-15.0" />
+              <point x="614.5" y="140.0" />
+              <point x="891.5" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ConfigurableApplicationContext" target="org.springframework.context.Lifecycle">
+              <point x="77.33333333333331" y="-15.0" />
+              <point x="1302.811403508772" y="225.0" />
+              <point x="1355.5" y="225.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractApplicationContext" target="org.springframework.context.ConfigurableApplicationContext">
+              <point x="-68.33333333333331" y="-15.0" />
+              <point x="1321.1447368421054" y="305.0" />
+              <point x="1225.4780701754387" y="305.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.30245746691871456" x="784.0" y="220.0" />
+          <SelectedNodes>
+            <node>org.springframework.context.support.AbstractRefreshableApplicationContext</node>
+            <node>org.springframework.context.MessageSource</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling_springIoc/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/spring.tx">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>spring.tx</OriginalElement>
+          <nodes>
+            <node x="" y="">spring.tx</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="41.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.transaction.PlatformTransactionManager">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.transaction.PlatformTransactionManager</OriginalElement>
+          <nodes>
+            <node x="570.5595238095239" y="80.0">org.springframework.transaction.support.CallbackPreferringPlatformTransactionManager</node>
+            <node x="355.10714285714283" y="330.0">org.springframework.transaction.jta.WebSphereUowTransactionManager.UOWActionAdapter</node>
+            <node x="285.55952380952385" y="80.0">org.springframework.transaction.support.AbstractPlatformTransactionManager</node>
+            <node x="1000.1845238095239" y="250.0">org.springframework.jca.cci.connection.CciLocalTransactionManager.CciLocalTransactionObject</node>
+            <node x="992.6845238095239" y="170.0">org.springframework.jca.cci.connection.CciLocalTransactionManager</node>
+            <node x="631.2916666666667" y="0.0">org.springframework.transaction.PlatformTransactionManager</node>
+            <node x="0.0" y="250.0">org.springframework.transaction.jta.WebLogicJtaTransactionManager</node>
+            <node x="305.1071428571429" y="250.0">org.springframework.transaction.jta.WebSphereUowTransactionManager</node>
+            <node x="579.6071428571429" y="170.0">org.springframework.jdbc.datasource.DataSourceTransactionManager</node>
+            <node x="75.0" y="170.0">org.springframework.transaction.jta.JtaTransactionManager</node>
+            <node x="258.30952380952385" y="0.0">org.springframework.transaction.support.AbstractPlatformTransactionManager.SuspendedResourcesHolder</node>
+            <node x="587.1071428571429" y="250.0">org.springframework.jdbc.datasource.DataSourceTransactionManager.DataSourceTransactionObject</node>
+            <node x="974.875" y="80.0">org.springframework.transaction.support.ResourceTransactionManager</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.jdbc.datasource.DataSourceTransactionManager" target="org.springframework.transaction.support.AbstractPlatformTransactionManager">
+              <point x="-58.75" y="-15.0" />
+              <point x="638.3571428571429" y="140.0" />
+              <point x="418.05952380952385" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.transaction.jta.WebSphereUowTransactionManager" target="org.springframework.transaction.jta.JtaTransactionManager">
+              <point x="-65.49999999999994" y="-15.0" />
+              <point x="370.60714285714295" y="225.0" />
+              <point x="213.0" y="225.0" />
+              <point x="46.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.jdbc.datasource.DataSourceTransactionManager.DataSourceTransactionObject" target="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.transaction.jta.WebLogicJtaTransactionManager" target="org.springframework.transaction.jta.JtaTransactionManager">
+              <point x="0.0" y="-15.0" />
+              <point x="-46.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.jca.cci.connection.CciLocalTransactionManager" target="org.springframework.transaction.support.ResourceTransactionManager">
+              <point x="53.75" y="-15.0" />
+              <point x="1153.9345238095239" y="150.0" />
+              <point x="1141.375" y="150.0" />
+              <point x="55.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.jca.cci.connection.CciLocalTransactionManager" target="org.springframework.transaction.support.AbstractPlatformTransactionManager">
+              <point x="-53.75" y="-15.0" />
+              <point x="1046.4345238095239" y="130.0" />
+              <point x="506.3928571428571" y="130.0" />
+              <point x="88.33333333333326" y="15.0" />
+            </edge>
+            <edge source="org.springframework.transaction.support.AbstractPlatformTransactionManager.SuspendedResourcesHolder" target="org.springframework.transaction.support.AbstractPlatformTransactionManager">
+              <point x="53.25" y="15.0" />
+              <point x="0.0" y="-15.0" />
+            </edge>
+            <edge source="org.springframework.transaction.support.CallbackPreferringPlatformTransactionManager" target="org.springframework.transaction.PlatformTransactionManager">
+              <point x="0.0" y="-15.0" />
+              <point x="732.5595238095239" y="55.0" />
+              <point x="739.7916666666667" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.transaction.jta.JtaTransactionManager" target="org.springframework.transaction.support.AbstractPlatformTransactionManager">
+              <point x="1.1368683772161603E-13" y="-15.0" />
+              <point x="167.0000000000001" y="150.0" />
+              <point x="329.7261904761905" y="150.0" />
+              <point x="-88.33333333333337" y="15.0" />
+            </edge>
+            <edge source="org.springframework.jdbc.datasource.DataSourceTransactionManager" target="org.springframework.transaction.support.ResourceTransactionManager">
+              <point x="58.75" y="-15.0" />
+              <point x="755.8571428571429" y="150.0" />
+              <point x="1030.375" y="150.0" />
+              <point x="-55.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.transaction.jta.WebSphereUowTransactionManager" target="org.springframework.transaction.support.CallbackPreferringPlatformTransactionManager">
+              <point x="65.50000000000006" y="-15.0" />
+              <point x="501.60714285714295" y="150.0" />
+              <point x="732.5595238095239" y="150.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.transaction.support.ResourceTransactionManager" target="org.springframework.transaction.PlatformTransactionManager">
+              <point x="0.0" y="-15.0" />
+              <point x="1085.875" y="55.0" />
+              <point x="812.125" y="55.0" />
+              <point x="72.33333333333331" y="15.0" />
+            </edge>
+            <edge source="org.springframework.transaction.support.AbstractPlatformTransactionManager" target="org.springframework.transaction.PlatformTransactionManager">
+              <point x="88.33333333333337" y="-15.0" />
+              <point x="506.3928571428572" y="55.0" />
+              <point x="667.4583333333334" y="55.0" />
+              <point x="-72.33333333333331" y="15.0" />
+            </edge>
+            <edge source="org.springframework.jca.cci.connection.CciLocalTransactionManager.CciLocalTransactionObject" target="org.springframework.jca.cci.connection.CciLocalTransactionManager">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.transaction.jta.WebSphereUowTransactionManager.UOWActionAdapter" target="org.springframework.transaction.jta.WebSphereUowTransactionManager">
+              <point x="5.6843418860808015E-14" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.transaction.support.AbstractPlatformTransactionManager" target="org.springframework.transaction.support.AbstractPlatformTransactionManager.SuspendedResourcesHolder">
+              <point x="-88.33333333333326" y="-15.0" />
+              <point x="329.7261904761906" y="55.0" />
+              <point x="311.55952380952385" y="55.0" />
+              <point x="-53.25" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="99.0" y="21.0" />
+          <SelectedNodes>
+            <node>org.springframework.jdbc.datasource.DataSourceTransactionManager</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling_springTx/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-tx/4.3.8.RELEASE/spring-tx-4.3.8.RELEASE.jar!/org/springframework/transaction/PlatformTransactionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-tx/4.3.8.RELEASE/spring-tx-4.3.8.RELEASE.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling_springIoc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/apache-maven-3.5.3/repository/org/springframework/spring-jdbc/4.3.8.RELEASE/spring-jdbc-4.3.8.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tuling_springTx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-logging:commons-logging:1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
