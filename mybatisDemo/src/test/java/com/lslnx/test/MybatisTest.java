@@ -30,4 +30,20 @@ public class MybatisTest {
             e.printStackTrace();
         }
     }
+
+
+    @Test
+    public void annontionTest(){
+        try {
+            String resource = "mybatis-config.xml";
+            InputStream inputStream = Resources.getResourceAsStream(resource);
+            SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
+            SqlSession sqlSession = sqlSessionFactory.openSession();
+            UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
+            User user = userMapper.selectUser(3);
+            log.info("user:{}",user);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }

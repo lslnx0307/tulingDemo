@@ -5,6 +5,7 @@
 <configuration>
 
 
+
     <environments default="development">
         <environment id="development">
             <transactionManager type="JDBC"/>
@@ -21,5 +22,7 @@
         <!--<mapper resource="mybatis/UserMapper.xml"/>-->
         <mapper class="com.lslnx.mybatis.mapper.UserMapper"/>
         <!--<package name="com.lslnx.mybatis.mapper"></package>-->
+
+        <!--<package name="com.jiagouedu.mapper"/>-->
     </mappers>
 </configuration>

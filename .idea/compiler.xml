@@ -6,8 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dubbo_client" />
+        <module name="dubbo_server" />
+        <module name="java_demo" />
+        <module name="mybatisDemo" />
+        <module name="threadPool_demo" />
         <module name="tuling_springIoc" />
         <module name="tuling_springTx" />
+        <module name="zookeeper01" />
+        <module name="zookeeper02" />
       </profile>
     </annotationProcessing>
   </component>

@@ -16,6 +16,13 @@
     <modules>
         <module>tuling_springIoc</module>
         <module>tuling_springTx</module>
+        <module>mybatisDemo</module>
+        <module>java_demo</module>
+        <module>zookeeper02</module>
+        <module>zookeeper01</module>
+        <module>threadPool_demo</module>
+        <module>dubbo_client</module>
+        <module>dubbo_server</module>
     </modules>
 
 
