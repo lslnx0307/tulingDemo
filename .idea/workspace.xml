@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java" description="XMLConfigBuilder parser = new XMLConfigBuilder(inp..." line="76" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="07999297-2797-4d3e-ac7d-46bf403b4d21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuling_springIoc/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuling_springIoc/src/main/resources/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuling_springTx/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuling_springTx/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuling_springTx/tuling_springTx.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisDemo/mybatisDemo.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,76 +18,28 @@
     <ignored path="$PROJECT_DIR$/dubbo_client/target/" />
     <ignored path="$PROJECT_DIR$/dubbo_server/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1089813260">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.27" value="2" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="AbstractRefreshableApplicationContext" value="1" />
-          <entry key="PlatformTransactionManager" value="1" />
-          <entry key="class" value="17" />
-          <entry key="gitignore" value="2" />
-          <entry key="java" value="5" />
-          <entry key="tx" value="1" />
-          <entry key="xml" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="17" />
-          <entry key="Git file" value="2" />
-          <entry key="JAVA" value="5" />
-          <entry key="UML" value="3" />
-          <entry key="XML" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="502" />
-          <entry key="txt" value="11" />
-          <entry key="xml" value="132" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="502" />
-          <entry key="PLAIN_TEXT" value="11" />
-          <entry key="XML" value="132" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dubbo_client/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="231">
               <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java_demo/src/main/java/com/lslnx/collection/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="126">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
@@ -110,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1523">
+            <state relative-caret-position="21">
               <caret line="129" column="70" selection-start-line="129" selection-start-column="70" selection-end-line="129" selection-end-column="70" />
               <folding>
                 <element signature="e#6283#6284#0" expanded="true" />
@@ -123,10 +62,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubbo_server/pom.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="424">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/BeanDefinitionReaderExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/support/SimpleBeanDefinitionRegistry.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo_server/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
               <caret line="6" column="26" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="26" />
             </state>
           </provider>
@@ -163,7 +140,6 @@
         <option value="$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/Person.java" />
         <option value="$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/DemoTest.java" />
         <option value="$PROJECT_DIR$/tuling_springTx/pom.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java" />
         <option value="$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml" />
@@ -185,20 +161,15 @@
         <option value="$PROJECT_DIR$/zookeeper02/src/main/java/com/lslnx/znode/CkClinetCRUD.java" />
         <option value="$PROJECT_DIR$/zookeeper02/pom.xml" />
         <option value="$PROJECT_DIR$/zookeeper02/src/main/java/com/lslnx/znode/ZkClinetCRUD.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/zookeeper01/pom.xml" />
         <option value="$PROJECT_DIR$/zookeeper02/src/test/java/znode/TestZnode.java" />
         <option value="$PROJECT_DIR$/threadPool_demo/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo_client/pom.xml" />
         <option value="$PROJECT_DIR$/java_demo/src/main/java/com/lslnx/collection/Demo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -223,14 +194,11 @@
       <select />
     </treeState>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="480" />
-    <option name="y" value="71" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="2578" />
+    <option name="height" value="1408" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -241,22 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="tulingDemo" type="58d84e3e:PackageViewProjectNode" />
-              <item name="mybatisDemo" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="58d84e3e:PackageViewProjectNode" />
-              <item name="mybatisDemo" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lslnx" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -310,7 +262,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,25 +272,58 @@
             <path>
               <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="java_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="java_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="java_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="java_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -347,23 +331,40 @@
             <path>
               <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="java_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="springIoc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tulingDemo" type="58d84e3e:PackageViewProjectNode" />
+              <item name="mybatisDemo" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="58d84e3e:PackageViewProjectNode" />
+              <item name="mybatisDemo" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lslnx" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535900637666" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/zookeeper01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -410,9 +411,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TestDemo.MaoPao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_demo" />
@@ -422,20 +429,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="collection" />
       <option name="MAIN_CLASS_NAME" value="collection.TestDemo" />
       <option name="METHOD_NAME" value="MaoPao" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TestZnode.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="zookeeper02" />
@@ -445,20 +446,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="znode" />
       <option name="MAIN_CLASS_NAME" value="znode.TestZnode" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TestZnode.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="zookeeper01" />
@@ -468,20 +463,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.lslnx.test.znode" />
       <option name="MAIN_CLASS_NAME" value="com.lslnx.test.znode.TestZnode" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TestZnode.watcherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="zookeeper01" />
@@ -491,62 +480,32 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.lslnx.test.znode" />
       <option name="MAIN_CLASS_NAME" value="com.lslnx.test.znode.TestZnode" />
       <option name="METHOD_NAME" value="watcherTest" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestZnode.test01" />
       <item itemvalue="Application.DemoTest" />
+      <item itemvalue="JUnit.TestZnode.test01" />
       <item itemvalue="JUnit.TestDemo.MaoPao" />
       <item itemvalue="JUnit.TestZnode.watcherTest" />
       <item itemvalue="JUnit.TestZnode.test01 (1)" />
@@ -603,6 +562,7 @@
       <workItem from="1543904011434" duration="2356000" />
       <workItem from="1543977291799" duration="4405000" />
       <workItem from="1544098586251" duration="1292000" />
+      <workItem from="1550039611226" duration="208000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1535630168550</created>
@@ -661,7 +621,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73685000" />
+    <option name="totallyTimeSpent" value="73893000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -673,75 +633,76 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296582" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2260479" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896176" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.368306" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41530055" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296582" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3279678" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.3296582" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3253796" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2238806" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41530055" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32896176" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.368306" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296582" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Spring" order="9" weight="0.3296582" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3253796" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41530055" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896176" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32896176" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.368306" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41530055" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296582" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896176" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3296582" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3253796" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32896176" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
@@ -1032,7 +993,6 @@
           <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="60" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1125,55 +1085,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/CreateMode.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/ZooDefs.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/Watcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/ZooKeeper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZooDefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="98" column="36" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/CreateMode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/KeeperException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/CreateMode.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/ZooDefs.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/Watcher.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/ZooKeeper.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZooDefs.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/CreateMode.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/KeeperException.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/InterruptedException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -1181,30 +1099,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper01/src/main/resources/log4j.properties" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZooKeeperMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-930">
-          <caret line="312" column="30" selection-start-line="312" selection-start-column="22" selection-end-line="312" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/Watcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="778">
-          <caret line="147" column="25" selection-start-line="147" selection-start-column="25" selection-end-line="147" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZKUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper01/src/test/java/com/lslnx/test/znode/TestZnode.java" />
-    <entry file="file://$PROJECT_DIR$/zookeeper01/src/main/java/com/lslnx/watcher/ZookeeperWatcher.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZooKeeperMain.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/Watcher.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZKUtil.java" />
     <entry file="file://$PROJECT_DIR$/java_demo/src/main/java/com/lslnx/collection/Singstion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1212,7 +1109,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper01/pom.xml" />
     <entry file="file://$PROJECT_DIR$/zookeeper02/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1223,13 +1119,7 @@
     <entry file="file://$PROJECT_DIR$/tulingDemo.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/IZkDataListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/IZkDataListener.class" />
     <entry file="file://$PROJECT_DIR$/zookeeper01/src/main/java/com/lslnx/watcher/ZookeeperWatcher2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
@@ -1241,13 +1131,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1285,34 +1168,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZooKeeper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12920">
-          <caret line="760" column="18" selection-start-line="760" selection-start-column="18" selection-end-line="760" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/ZkConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="86" column="27" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/IZkConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/ZkClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="297" column="18" selection-start-line="297" selection-start-column="18" selection-end-line="297" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/ZkConnection.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/IZkConnection.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/ZkClient.class" />
     <entry file="file://$PROJECT_DIR$/threadPool_demo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1334,24 +1193,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo_client/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="231">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java_demo/src/main/java/com/lslnx/collection/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="126">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
@@ -1360,14 +1213,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo_server/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1523">
+        <state relative-caret-position="21">
           <caret line="129" column="70" selection-start-line="129" selection-start-column="70" selection-end-line="129" selection-end-column="70" />
           <folding>
             <element signature="e#6283#6284#0" expanded="true" />
             <element signature="e#6351#6352#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/support/SimpleBeanDefinitionRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/BeanDefinitionReaderExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="74" />
         </state>
       </provider>
     </entry>
