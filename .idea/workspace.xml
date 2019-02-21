@@ -7,45 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07999297-2797-4d3e-ac7d-46bf403b4d21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/executor/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/executor/SimpleExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/DefaultResultSetHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/ResultSetHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/DefaultSqlSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSessionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSessionFactoryBuild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/statement/StatementHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/util/DBUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/resources/mybatis/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/TIMybatisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/src/main/java/com/lslnx/common/MyDispatchServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/src/main/java/com/lslnx/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/plugins/SqlPrintInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/plugins/SqlPrintInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuling_springIoc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuling_springIoc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuling_springIoc/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuling_springIoc/src/main/resources/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeper02/src/test/java/znode/TestZnode.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper02/src/test/java/znode/TestZnode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -87,7 +50,23 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="8" selection-start-column="8" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -161,18 +140,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="206">
               <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperRegistry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -316,7 +283,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zookeeper01/src/main/java/com/lslnx/watcher/ZookeeperWatcher.java" />
         <option value="$PROJECT_DIR$/zookeeper01/src/test/java/com/lslnx/test/znode/TestZnode.java" />
         <option value="$PROJECT_DIR$/zookeeper01/src/main/java/com/lslnx/watcher/ZookeeperWatcher2.java" />
         <option value="$PROJECT_DIR$/java_demo/src/main/java/com/lslnx/collection/Singstion.java" />
@@ -367,6 +333,7 @@
         <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/statement/StatementHandler.java" />
         <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperProxy.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -404,167 +371,6 @@
             <path>
               <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
-              <item name="binding" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
-              <item name="executor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
-              <item name="result" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
-              <item name="session" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
-              <item name="statement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -992,7 +798,7 @@
       <workItem from="1543977291799" duration="4405000" />
       <workItem from="1544098586251" duration="1292000" />
       <workItem from="1550039611226" duration="8700000" />
-      <workItem from="1550716033548" duration="13589000" />
+      <workItem from="1550716033548" duration="13805000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1535630168550</created>
@@ -1022,7 +828,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550039858690</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一次提交">
+      <created>1550733773536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550733773536</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1058,7 +871,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95974000" />
+    <option name="totallyTimeSpent" value="96190000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1071,6 +884,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22804391" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1452,13 +1266,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/exceptions/ExceptionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1843,8 +1650,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="8" selection-start-column="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
