@@ -11,11 +11,16 @@
         <module name="java_demo" />
         <module name="mybatisDemo" />
         <module name="threadPool_demo" />
+        <module name="tl_mybatis" />
+        <module name="tuling-spring-mvc" />
         <module name="tuling_springIoc" />
         <module name="tuling_springTx" />
         <module name="zookeeper01" />
         <module name="zookeeper02" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tuling-spring-mvc" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

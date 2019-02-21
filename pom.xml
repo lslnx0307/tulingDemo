@@ -11,6 +11,12 @@
 
     <properties>
         <spring.version>4.3.8.RELEASE</spring.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <slf4j.version>1.6.1</slf4j.version>
+        <logback.version>1.1.2</logback.version>
+        <mysql-connector-java.version>5.1.30</mysql-connector-java.version>
     </properties>
 
     <modules>
@@ -23,7 +29,21 @@
         <module>threadPool_demo</module>
         <module>dubbo_client</module>
         <module>dubbo_server</module>
+        <module>spring-mvc</module>
+        <module>tl_mybatis</module>
     </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>${mysql-connector-java.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.18</version>
+        </dependency>
+    </dependencies>
 
 </project>

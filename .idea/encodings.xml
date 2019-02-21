@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatisDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threadPool_demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tl_mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tuling-spring-mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tuling_springIoc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tuling_springTx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper02" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

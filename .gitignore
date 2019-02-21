@@ -2,3 +2,5 @@
 .idea/
 *.iml
 target
+/.idea/workspace.xml
+/.idea/compiler.xml

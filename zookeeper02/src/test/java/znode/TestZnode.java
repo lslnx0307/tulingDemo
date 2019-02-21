@@ -18,9 +18,9 @@ public class TestZnode {
         zkClinetCRUD.createPersistent("/lslnx/0307","anc");
         System.out.println(zkClinetCRUD.readData("/lslnx"));
         List<String> list = zkClinetCRUD.getChild("/lslnx");
-        list.forEach(e->{
-            System.out.println(e);
-        });
+//        list.forEach(e->{
+//            System.out.println(e);
+//        });
 
     }
 

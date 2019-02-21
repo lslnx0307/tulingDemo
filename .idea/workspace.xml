@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tuling-spring-mvc:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="07999297-2797-4d3e-ac7d-46bf403b4d21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/executor/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/executor/SimpleExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/DefaultResultSetHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/ResultSetHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/DefaultSqlSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSessionFactoryBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/statement/StatementHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/main/resources/mybatis/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/TIMybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/src/main/java/com/lslnx/common/MyDispatchServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/src/main/java/com/lslnx/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuling-spring-mvc/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisDemo/mybatisDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/plugins/SqlPrintInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/plugins/SqlPrintInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling_springIoc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuling_springIoc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling_springIoc/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuling_springIoc/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper02/src/test/java/znode/TestZnode.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper02/src/test/java/znode/TestZnode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,94 +58,231 @@
     <ignored path="$PROJECT_DIR$/threadPool_demo/target/" />
     <ignored path="$PROJECT_DIR$/dubbo_client/target/" />
     <ignored path="$PROJECT_DIR$/dubbo_server/target/" />
+    <ignored path="$PROJECT_DIR$/spring-mvc/target/" />
+    <ignored path="$PROJECT_DIR$/tuling-spring-mvc/target/" />
+    <ignored path="$PROJECT_DIR$/tl_mybatis/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubbo_client/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/TIMybatisTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="23" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java_demo/src/main/java/com/lslnx/collection/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="441">
+              <caret line="21" column="68" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="129" column="70" selection-start-line="129" selection-start-column="70" selection-end-line="129" selection-end-column="70" />
-              <folding>
-                <element signature="e#6283#6284#0" expanded="true" />
-                <element signature="e#6351#6352#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/BeanDefinitionReaderExample.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="74" />
+            <state relative-caret-position="364">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/support/SimpleBeanDefinitionRegistry.class">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/executor/Executor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubbo_server/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/executor/SimpleExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="420">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/statement/StatementHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/DefaultResultSetHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/sql/Connection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="137" column="22" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/sql/PreparedStatement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperRegistry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSessionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/ResultSetHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="104" selection-start-line="13" selection-start-column="104" selection-end-line="13" selection-end-column="104" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/DefaultSqlSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/resources/mybatis/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/pojo/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSessionFactoryBuild.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/Configuration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2687#2688#0" expanded="true" />
+                <element signature="e#2721#2722#0" expanded="true" />
+                <element signature="e#2780#2781#0" expanded="true" />
+                <element signature="e#2826#2827#0" expanded="true" />
+                <element signature="e#2875#2876#0" expanded="true" />
+                <element signature="e#2912#2913#0" expanded="true" />
+                <element signature="e#2980#2981#0" expanded="true" />
+                <element signature="e#3032#3033#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Proxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -114,8 +292,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="mybatis mapper" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -127,6 +306,7 @@
       <find>doQuery</find>
       <find>start</find>
       <find>up</find>
+      <find>BeanDeﬁnitionRegistry</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -136,23 +316,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tuling_springIoc/pom.xml" />
-        <option value="$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/Person.java" />
-        <option value="$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/DemoTest.java" />
-        <option value="$PROJECT_DIR$/tuling_springTx/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java" />
-        <option value="$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml" />
-        <option value="$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/plugins/SqlPrintInterceptor.java" />
-        <option value="$PROJECT_DIR$/zookeeper01/src/test/java/com/lslnx/test/znode/Test.java" />
-        <option value="$PROJECT_DIR$/java_demo/pom.xml" />
-        <option value="$PROJECT_DIR$/java_fanshe/src/com/lslnx/Student.java" />
-        <option value="$PROJECT_DIR$/java_fanshe/src/com/lslnx/Test.java" />
-        <option value="$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/BeanDefinitionReaderExample.java" />
-        <option value="$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/Hi.java" />
-        <option value="$PROJECT_DIR$/tuling_springIoc/src/main/resources/spring.xml" />
-        <option value="$PROJECT_DIR$/java_demo/src/test/java/collection/TestDemo.java" />
-        <option value="$PROJECT_DIR$/zookeeper01/src/main/java/com/lslnx/znone/ZookeeperCrud.java" />
         <option value="$PROJECT_DIR$/zookeeper01/src/main/java/com/lslnx/watcher/ZookeeperWatcher.java" />
         <option value="$PROJECT_DIR$/zookeeper01/src/test/java/com/lslnx/test/znode/TestZnode.java" />
         <option value="$PROJECT_DIR$/zookeeper01/src/main/java/com/lslnx/watcher/ZookeeperWatcher2.java" />
@@ -162,11 +325,47 @@
         <option value="$PROJECT_DIR$/zookeeper02/pom.xml" />
         <option value="$PROJECT_DIR$/zookeeper02/src/main/java/com/lslnx/znode/ZkClinetCRUD.java" />
         <option value="$PROJECT_DIR$/zookeeper01/pom.xml" />
-        <option value="$PROJECT_DIR$/zookeeper02/src/test/java/znode/TestZnode.java" />
         <option value="$PROJECT_DIR$/threadPool_demo/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo_client/pom.xml" />
         <option value="$PROJECT_DIR$/java_demo/src/main/java/com/lslnx/collection/Demo.java" />
+        <option value="$PROJECT_DIR$/tuling_springIoc/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/tuling_springIoc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/lslnx/controller/controller.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/lslnx/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/tuling-spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/tuling-spring-mvc/src/main/java/com/lslnx/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/tuling-spring-mvc/src/main/java/com/lslnx/controller/MyController.java" />
+        <option value="$PROJECT_DIR$/tuling-spring-mvc/src/main/java/com/lslnx/common/MyDispatchServlet.java" />
+        <option value="$PROJECT_DIR$/tuling-spring-mvc/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/zookeeper02/src/test/java/znode/TestZnode.java" />
+        <option value="$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java" />
+        <option value="$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/plugins/SqlPrintInterceptor.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperMethod.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/executor/Executor.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperRegistry.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSessionFactoryBuild.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSession.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/DefaultSqlSession.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/util/DBUtil.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/ResultSetHandler.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/DefaultResultSetHandler.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/test/java/jiagouedu/pojo/User.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/pojo/User.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/executor/SimpleExecutor.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSessionFactory.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/pojo/User.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/resources/mybatis/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/TIMybatisTest.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/Configuration.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/statement/StatementHandler.java" />
+        <option value="$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperProxy.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -180,17 +379,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mybatisDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mybatisDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -209,6 +398,178 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
+              <item name="binding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
+              <item name="executor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
+              <item name="session" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
+              <item name="statement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="tl_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lslnx" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -262,85 +623,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tulingDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tulingDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="tuling_springIoc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springIoc" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -364,7 +646,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535900637666" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tuling-mybatis" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -373,19 +655,21 @@
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\ideaspace\tulingDemo\threadPool_demo\src\test\java" />
-      <recent name="E:\ideaspace\tulingDemo\zookeeper01\src\test\java" />
-      <recent name="E:\ideaspace\tulingDemo\zookeeper01\src\main\resources" />
-      <recent name="E:\ideaspace\tulingDemo\zookeeper01\src\main\java" />
-      <recent name="E:\ideaspace\tulingDemo\tuling_springIoc\src\main\java\com\lslnx\springIoc" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaspace\tulingDemo\java_fanshe" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lslnx.pojo" />
+      <recent name="com.lslnx.mapper" />
       <recent name="znode" />
       <recent name="com.lslnx.watcher" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\ideaspace\tulingDemo\java_fanshe" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\lslnx\tuling\tulingDemo\tl_mybatis\src\test\java" />
+      <recent name="D:\lslnx\tuling\tulingDemo\tl_mybatis\src\main\resources\mybatis" />
+      <recent name="D:\lslnx\tuling\tulingDemo\tl_mybatis\src\main\resources" />
+      <recent name="E:\ideaspace\tulingDemo\threadPool_demo\src\test\java" />
+      <recent name="E:\ideaspace\tulingDemo\zookeeper01\src\test\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -400,7 +684,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestZnode.test01 (1)">
+  <component name="RunManager" selected="Application.TIMybatisTest">
     <configuration name="DemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lslnx.springIoc.DemoTest" />
       <module name="tuling_springIoc" />
@@ -415,23 +699,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TIMybatisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lslnx.TIMybatisTest" />
+      <module name="tl_mybatis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lslnx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo.MaoPao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java_demo" />
+    <configuration name="MybatisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="com.lslnx.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="collection" />
-      <option name="MAIN_CLASS_NAME" value="collection.TestDemo" />
-      <option name="METHOD_NAME" value="MaoPao" />
+      <option name="PACKAGE_NAME" value="com.lslnx.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lslnx.test.MybatisTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -448,23 +746,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="znode" />
       <option name="MAIN_CLASS_NAME" value="znode.TestZnode" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestZnode.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="zookeeper01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lslnx.test.znode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lslnx.test.znode" />
-      <option name="MAIN_CLASS_NAME" value="com.lslnx.test.znode.TestZnode" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -503,20 +784,168 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tomcat 8.5.37" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="tuling-spring-mvc:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tulingmvc" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_tulingDemo" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51769" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tuling-spring-mvc:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/tuling_spring_mvc_war/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="tuling-spring-mvc:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tuling_spring_mvc_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_tulingDemo" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51769" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tuling-spring-mvc:war" />
+        </option>
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.DemoTest" />
-      <item itemvalue="JUnit.TestZnode.test01" />
-      <item itemvalue="JUnit.TestDemo.MaoPao" />
       <item itemvalue="JUnit.TestZnode.watcherTest" />
       <item itemvalue="JUnit.TestZnode.test01 (1)" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.37" />
+      <item itemvalue="JUnit.MybatisTest.test" />
+      <item itemvalue="Application.TIMybatisTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TIMybatisTest" />
+        <item itemvalue="JUnit.MybatisTest.test" />
+        <item itemvalue="Application.DemoTest" />
         <item itemvalue="JUnit.TestZnode.test01 (1)" />
         <item itemvalue="JUnit.TestZnode.watcherTest" />
-        <item itemvalue="JUnit.TestZnode.test01" />
-        <item itemvalue="JUnit.TestDemo.MaoPao" />
-        <item itemvalue="Application.DemoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -562,7 +991,8 @@
       <workItem from="1543904011434" duration="2356000" />
       <workItem from="1543977291799" duration="4405000" />
       <workItem from="1544098586251" duration="1292000" />
-      <workItem from="1550039611226" duration="208000" />
+      <workItem from="1550039611226" duration="8700000" />
+      <workItem from="1550716033548" duration="13589000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1535630168550</created>
@@ -585,31 +1015,17 @@
       <option name="project" value="LOCAL" />
       <updated>1535900643759</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第一次提交">
+      <created>1550039858690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550039858690</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestZnode_test01_(1) - 2018.12.04 at 00h 36m 10s.xml">
-      <configuration name="TestZnode.test01 (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestZnode_test01_(1) - 2018.12.04 at 00h 36m 18s.xml">
-      <configuration name="TestZnode.test01 (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestZnode_test01_(1) - 2018.12.04 at 00h 37m 31s.xml">
-      <configuration name="TestZnode.test01 (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestZnode_test01_(1) - 2018.12.04 at 00h 37m 52s.xml">
-      <configuration name="TestZnode.test01 (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestZnode_test01_(1) - 2018.12.04 at 00h 38m 23s.xml">
-      <configuration name="TestZnode.test01 (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestZnode_test01_(1) - 2018.12.04 at 00h 38m 35s.xml">
-      <configuration name="TestZnode.test01 (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestZnode_test01_(1) - 2018.12.04 at 00h 39m 00s.xml">
-      <configuration name="TestZnode.test01 (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestZnode_test01_(1) - 2018.12.04 at 00h 39m 20s.xml">
       <configuration name="TestZnode.test01 (1)" configurationId="JUnit" />
     </history-entry>
@@ -619,9 +1035,30 @@
     <history-entry file="TestZnode_test01_(1) - 2018.12.04 at 00h 40m 10s.xml">
       <configuration name="TestZnode.test01 (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MybatisTest_test - 2019.02.21 at 10h 33m 28s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2019.02.21 at 10h 34m 03s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2019.02.21 at 10h 42m 04s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2019.02.21 at 10h 45m 14s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2019.02.21 at 10h 49m 15s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2019.02.21 at 10h 52m 16s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2019.02.21 at 10h 57m 35s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73893000" />
+    <option name="totallyTimeSpent" value="95974000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -634,31 +1071,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2260479" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22804391" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.368306" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41530055" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36820924" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30080482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3296582" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3279678" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.31790745" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.3296582" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3253796" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32896176" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3279678" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.48792756" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -668,6 +1106,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32984033" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
@@ -787,30 +1226,6 @@
           <line>66</line>
           <properties />
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.java</url>
@@ -992,6 +1407,42 @@
           <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/plugins/SqlPrintInterceptor.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/TIMybatisTest.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/Configuration.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/Configuration.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/DefaultSqlSession.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/DefaultResultSetHandler.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1001,265 +1452,399 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.8.RELEASE/spring-core-4.3.8.RELEASE.jar!/org/springframework/core/io/support/PathMatchingResourcePatternResolver.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/exceptions/ExceptionFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        <state relative-caret-position="315">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.8.RELEASE/spring-core-4.3.8.RELEASE.jar!/org/springframework/core/io/ClassPathResource.class">
+    <entry file="file://$PROJECT_DIR$/mybatisDemo/src/main/resources/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="147">
+          <caret line="7" column="67" lean-forward="true" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/xml/PluggableSchemaResolver.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        <state relative-caret-position="185">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/xml/DelegatingEntityResolver.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/builder/xml/XMLConfigBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="177">
+          <caret line="355" selection-start-line="355" selection-end-line="355" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/xml/ResourceEntityResolver.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
+        <state relative-caret-position="169">
+          <caret line="456" selection-start-line="456" selection-end-line="456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="554" selection-start-line="554" selection-end-line="554" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/xml/DefaultDocumentLoader.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/reflection/ParamNameResolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="177">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2142">
-          <caret line="159" selection-start-line="159" selection-end-line="159" />
+        <state relative-caret-position="169">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractXmlApplicationContext.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="168">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/plugin/Plugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="160">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+    <entry file="file://$PROJECT_DIR$/mybatisDemo/src/main/java/com/lslnx/mybatis/plugins/SqlPrintInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3094">
-          <caret line="271" column="50" selection-start-line="271" selection-start-column="50" selection-end-line="271" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_demo/src/test/java/collection/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1106">
-          <caret line="139" selection-start-line="139" selection-end-line="139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/CreateMode.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/ZooDefs.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/Watcher.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar!/org/apache/zookeeper/ZooKeeper.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZooDefs.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/CreateMode.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/KeeperException.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/InterruptedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZooKeeperMain.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/Watcher.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZKUtil.java" />
-    <entry file="file://$PROJECT_DIR$/java_demo/src/main/java/com/lslnx/collection/Singstion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper02/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tulingDemo.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/IZkDataListener.class" />
-    <entry file="file://$PROJECT_DIR$/zookeeper01/src/main/java/com/lslnx/watcher/ZookeeperWatcher2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper01/src/main/java/com/lslnx/watcher/ZookeeperWatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper01/src/main/java/com/lslnx/znone/ZookeeperCrud.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper01/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper01/src/test/java/com/lslnx/test/znode/TestZnode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper01/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper02/src/test/java/znode/TestZnode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zookeeper02/src/main/java/com/lslnx/znode/ZkClinetCRUD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/ZkConnection.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/IZkConnection.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/ZkClient.class" />
-    <entry file="file://$PROJECT_DIR$/threadPool_demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1734">
-          <caret line="136" column="32" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="724" column="5" selection-start-line="695" selection-start-column="4" selection-end-line="724" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_client/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_demo/src/main/java/com/lslnx/collection/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="-84">
+          <caret line="83" column="86" selection-start-line="83" selection-start-column="64" selection-end-line="83" selection-end-column="86" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_server/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mybatisDemo/src/test/java/com/lslnx/test/MybatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="40" column="68" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="129" column="70" selection-start-line="129" selection-start-column="70" selection-end-line="129" selection-end-column="70" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="501">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/javassist/bytecode/analysis/Executor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/executor/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/DocumentException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/util/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/test/java/jiagouedu/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/test/java/jiagouedu/TlMybastisTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/test/java/jiagouedu/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/tree/DefaultElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="606" selection-start-line="606" selection-end-line="606" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="137" column="22" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/executor/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/ResultSetHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="104" selection-start-line="13" selection-start-column="104" selection-end-line="13" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="2215" column="24" selection-start-line="2215" selection-start-column="24" selection-end-line="2215" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/resources/mybatis/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2687#2688#0" expanded="true" />
+            <element signature="e#2721#2722#0" expanded="true" />
+            <element signature="e#2780#2781#0" expanded="true" />
+            <element signature="e#2826#2827#0" expanded="true" />
+            <element signature="e#2875#2876#0" expanded="true" />
+            <element signature="e#2912#2913#0" expanded="true" />
+            <element signature="e#2980#2981#0" expanded="true" />
+            <element signature="e#3032#3033#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/SqlSessionFactoryBuild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/result/DefaultResultSetHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/statement/StatementHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/executor/SimpleExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/session/DefaultSqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/main/java/com/lslnx/binding/MapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tl_mybatis/src/test/java/com/lslnx/TIMybatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/support/SimpleBeanDefinitionRegistry.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuling_springIoc/src/main/java/com/lslnx/springIoc/BeanDefinitionReaderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="74" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -1267,10 +1852,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>springmvc:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.43739566" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1313,7 +1900,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>dubbo_client</last-edited>
+          <last-edited>tl_mybatis</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

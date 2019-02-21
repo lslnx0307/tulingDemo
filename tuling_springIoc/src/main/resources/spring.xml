@@ -13,5 +13,5 @@
     <!--<bean class="com.lslnx.springIoc.Person" factory-method="bulid">
         <constructor-arg name="type" value="B"/>
     </bean>-->
-    <bean id="hi" name="hi2" class="com.lslnx.springIoc.Hi"></bean>
+    <bean id="hi" name="hi2" class="com.lslnx.springIoc.Hi" scope="prototype"></bean>
 </beans>
